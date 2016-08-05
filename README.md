@@ -3,7 +3,7 @@ This algorithm is proposed by Jin Wu, Zebo Zhou, Jingjun Chen, Hassen Fourati an
 
 The source codes are written with C++ programming language and are complied by Microsoft Visual Studio 2013 Comunity.
 
-Raw data file 'flat_motion2.txt' is included for algorithm's computation while the results are verified using MATLAB software with respect to gold reference angle acquired from MicroStrain 3DM-GX3-25 Attitude and Heading Reference System (AHRS). 
+Raw data file 'flat_motion2.txt' is included for algorithm's computation while the results are verified using MATLAB software with respect to gold reference angles acquired from an MicroStrain 3DM-GX3-25 Attitude and Heading Reference System (AHRS). 
 
 This code can only be adopted for personal use. If any commercial use is involved, please contact: jin_wu_uestc@hotmail.com or klinsmann.zhou@gmail.com for further information. 
 
